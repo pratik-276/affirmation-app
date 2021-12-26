@@ -104,7 +104,6 @@ function App() {
     "I set goals and go after them with all the determination I can muster. When I do this, my own skills and talents will take me to places that amaze me.",
     "Happiness is a choice, and today I choose to be happy.",
   ];
-  console.log(affirmations.length);
   const [index, setindex] = useState(0);
   return (
     <div className="App">
