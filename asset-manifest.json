@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/affirmation-app/static/css/main.63e3b381.css",
-    "main.js": "/affirmation-app/static/js/main.86acdd97.js",
+    "main.js": "/affirmation-app/static/js/main.468124cc.js",
     "static/js/787.ccbbd0c0.chunk.js": "/affirmation-app/static/js/787.ccbbd0c0.chunk.js",
     "index.html": "/affirmation-app/index.html",
     "main.63e3b381.css.map": "/affirmation-app/static/css/main.63e3b381.css.map",
-    "main.86acdd97.js.map": "/affirmation-app/static/js/main.86acdd97.js.map",
+    "main.468124cc.js.map": "/affirmation-app/static/js/main.468124cc.js.map",
     "787.ccbbd0c0.chunk.js.map": "/affirmation-app/static/js/787.ccbbd0c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63e3b381.css",
-    "static/js/main.86acdd97.js"
+    "static/js/main.468124cc.js"
   ]
 }
